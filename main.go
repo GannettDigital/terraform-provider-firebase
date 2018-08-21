@@ -1,7 +1,7 @@
 package main
 
 import (
-	"github.com/eliaszs/terraform-provider-firebase/firebase"
+	"github.com/GannettDigital/terraform-provider-firebase/firebase"
 	"github.com/hashicorp/terraform/plugin"
 )
 
